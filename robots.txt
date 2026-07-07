@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /de/
+Allow: /en/
+Disallow: /index.html
+Disallow: /references.html
+
+Sitemap: https://naehrhaft-studio.ch/sitemap.xml
